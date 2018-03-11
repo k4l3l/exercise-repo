@@ -1,3 +1,3 @@
 # exercise-repo
 Made for exercise
-Conflict
+All's good here!
